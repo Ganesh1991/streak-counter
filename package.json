@@ -1,6 +1,6 @@
 {
   "name": "@ganesh.deshmukh/streak-counter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "```shell\r npm add @Ganesh1991/streak-counter\r ```",
   "scripts": {
     "build": "microbundle",
